@@ -1,36 +1,90 @@
 deck	opponent	card	maindeck	delta
-DnT	BUG Delver	Phyrexian Revoker	1	-3
-DnT	BUG Delver	Flickerwisp	1	-1
-DnT	BUG Delver	Sanctum Prelate	1	-1
-DnT	BUG Delver	Path to Exile	0	+1
-DnT	BUG Delver	Rest in Peace	0	+2
-DnT	BUG Delver	Council's Judgement	0	+2
+Death and Taxes	Delver	Phyrexian Revoker	1	-3
+Death and Taxes	Delver	Flickerwisp	1	-1
+Death and Taxes	Delver	Sanctum Prelate	1	-1
+Death and Taxes	Delver	Path to Exile	0	+1
+Death and Taxes	Delver	Rest in Peace	0	+2
+Death and Taxes	Delver	Council's Judgement	0	+2
 
-DnT	Miracles	Mother of Runes	1	-4
-DnT	Miracles	Swords to Plowshares	1	-2
-DnT	Miracles	Council's Judgement	0	+2
-DnT	Miracles	Gideon, Ally of Zendikar	0	+2
-DnT	Miracles	Pithing Needle	0	+1
-DnT	Miracles	Ethersworn Canonist	0	+1
+Death and Taxes	Miracles	Mother of Runes	1	-4
+Death and Taxes	Miracles	Swords to Plowshares	1	-2
+Death and Taxes	Miracles	Council's Judgement	0	+2
+Death and Taxes	Miracles	Gideon, AoZ	0	+2
+Death and Taxes	Miracles	Pithing Needle	0	+1
+Death and Taxes	Miracles	Ethersworn Canonist	0	+1
 
-DnT	Sneak 'n Show	Swords to Plowshares	1	-3
-DnT	Sneak 'n Show	Mirran Crusader	1	-1
-DnT	Sneak 'n Show	Umezawa's Jitte	1	-1
-DnT	Sneak 'n Show	Stoneforge Mystic	1	-1
-DnT	Sneak 'n Show	Pithing Needle	0	+1
-DnT	Sneak 'n Show	Path to Exile	0	+1
-DnT	Sneak 'n Show	Containment Priest	0	+1
-DnT	Sneak 'n Show	Council's Judgement	0	+2
-DnT	Sneak 'n Show	Sanctum Prelate	0	+1
+Death and Taxes	Sneak 'n Show	Swords to Plowshares	1	-3
+Death and Taxes	Sneak 'n Show	Mirran Crusader	1	-1
+Death and Taxes	Sneak 'n Show	Umezawa's Jitte	1	-1
+Death and Taxes	Sneak 'n Show	Stoneforge Mystic	1	-1
+Death and Taxes	Sneak 'n Show	Pithing Needle	0	+1
+Death and Taxes	Sneak 'n Show	Path to Exile	0	+1
+Death and Taxes	Sneak 'n Show	Containment Priest	0	+1
+Death and Taxes	Sneak 'n Show	Council's Judgement	0	+2
+Death and Taxes	Sneak 'n Show	Sanctum Prelate	0	+1
 
-DnT	Reanimator	Phyrexian Revoker	1	-3
-DnT	Reanimator	Stoneforge Mystic	1	-2
-DnT	Reanimator	Umezawa's Jitte	1	-1
-DnT	Reanimator	Sword of Fire and Ice	1	-1
-DnT	Reanimator	Serra Avenger	1	-1
-DnT	Reanimator	Mirran Crusader	1	-1
-DnT	Reanimator	Containment Priest	0	+1
-DnT	Reanimator	Path to Exile	0	+1
-DnT	Reanimator	Rest in Peace	0	+3
-DnT	Reanimator	Surgical Extraction	0	+2
-DnT	Reanimator	Council's Judgement	0	+2
+Death and Taxes	Reanimator	Phyrexian Revoker	1	-3
+Death and Taxes	Reanimator	Stoneforge Mystic	1	-2
+Death and Taxes	Reanimator	Umezawa's Jitte	1	-1
+Death and Taxes	Reanimator	Sword of FaI	1	-1
+Death and Taxes	Reanimator	Serra Avenger	1	-1
+Death and Taxes	Reanimator	Mirran Crusader	1	-1
+Death and Taxes	Reanimator	Containment Priest	0	+1
+Death and Taxes	Reanimator	Path to Exile	0	+1
+Death and Taxes	Reanimator	Rest in Peace	0	+3
+Death and Taxes	Reanimator	Surgical Extraction	0	+2
+Death and Taxes	Reanimator	Council's Judgement	0	+2
+
+Death and Taxes	Infect	Sword of FaI	1	-1
+Death and Taxes	Infect	Phyrexian Revoker	1	-3
+Death and Taxes	Infect	Batterskull	1	-1
+Death and Taxes	Infect	Ethersworn Canonist	0	+1
+Death and Taxes	Infect	Pithing Needle	0	+1
+Death and Taxes	Infect	Path to Exile	0	+1
+Death and Taxes	Infect	Council's Judgement	0	+2
+
+Death and Taxes	Lands	Phyrexian Revoker	1	-3
+Death and Taxes	Lands	Spirit of the Labyrinth	1	-1
+Death and Taxes	Lands	Mirran Crusader	1	-2
+Death and Taxes	Lands	Serra Avenger	1	-1
+Death and Taxes	Lands	Rest in Peace	0	+2
+Death and Taxes	Lands	Pithing Needle	0	+1
+Death and Taxes	Lands	Surgical Extraction	0	+2
+Death and Taxes	Lands	Council's Judgement	0	+2
+
+Death and Taxes	Storm	Swords to Plowshares	1	-4
+Death and Taxes	Storm	Mirran Crusader	1	-1
+Death and Taxes	Storm	Serra Avenger	1	-1
+Death and Taxes	Storm	Flickerwisp	1	-1
+Death and Taxes	Storm	Ethersworn Canonist	0	+1
+Death and Taxes	Storm	Rest in Peace	0	+2
+Death and Taxes	Storm	Surgical Extraction	0	+2
+Death and Taxes	Storm	Council's Judgement	0	+2
+
+Death and Taxes	Dredge	Phyrexian Revoker	1	-3
+Death and Taxes	Dredge	Spirit of the Labyrinth	1	-1
+Death and Taxes	Dredge	Sword of FaI	1	-1
+Death and Taxes	Dredge	Mirran Crusader	1	-1
+Death and Taxes	Dredge	Rest in Peace	0	+3
+Death and Taxes	Dredge	Surgical Extraction	0	+2
+Death and Taxes	Dredge	Containment Priest	0	+1
+
+Death and Taxes	Elves	Sword of FaI	1	-1
+Death and Taxes	Elves	Thalia, GoT	1	-4
+Death and Taxes	Elves	Flickerwisp	1	-4
+Death and Taxes	Elves	Pithing Needle	0	+1
+Death and Taxes	Elves	Council's Judgement	0	+2
+Death and Taxes	Elves	Containment Priest	0	+1
+Death and Taxes	Elves	Ethersworn Canonist	0	+1
+Death and Taxes	Elves	Path to Exile	0	+1
+Death and Taxes	Elves	Surgical Extraction	0	+2
+Death and Taxes	Elves	Sanctum Prelate	0	+1
+
+Death and Taxes	Death and Taxes	Thalia, GoT	1	-4
+Death and Taxes	Death and Taxes	Spirit of the Labyrinth	1	-1
+Death and Taxes	Death and Taxes	Sanctum Prelate	1	-1
+Death and Taxes	Death and Taxes	Pithing Needle	0	+1
+Death and Taxes	Death and Taxes	Council's Judgement	0	+2
+Death and Taxes	Death and Taxes	Path to Exile	0	+1
+Death and Taxes	Death and Taxes	Sword of LaS	0	+1
+Death and Taxes	Death and Taxes	Containment Priest	0	+1

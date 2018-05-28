@@ -65,24 +65,24 @@
         width="96"
         height="{{500 + 60* cards|length}}"
         x="{{476 + 100 * loop.index}}"
-        y="335"
+        y="315"
         ry="0" />
         {% endif %}
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="{{538 + 100 * loop.index}}"
-       y="750"
+       y="730"
        id="deck"
        sodipodi:linespacing="125%"
-       transform="rotate(-90, {{538 + 100 * loop.index}}, 750)">{{ d }}</text>
+       transform="rotate(-90, {{538 + 100 * loop.index}}, 730)">{{ d }}</text>
     {% endfor %}
     {% for c in cards %}}
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="540"
-       y="{{ 775 + 60 * loop.index }}"
+       y="{{ 755 + 60 * loop.index }}"
        id="card_{{ loop.index }}"
        sodipodi:linespacing="125%">{{ c }}</text>
     {% endfor %}
@@ -94,7 +94,7 @@
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:{% if "-" in v %}#6C1600{% else %}#166C00{% endif %};fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
               x="{{ 526 + 100 * x_index }}"
-              y="{{ 775 + 60 * y_index }}"
+              y="{{ 755 + 60 * y_index }}"
               id="card_value_{{ x_index }}_{{ y_index}}"
               sodipodi:linespacing="125%">{{ v }}</text>
         {% endfor %}
