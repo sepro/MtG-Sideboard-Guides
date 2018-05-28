@@ -1,0 +1,36 @@
+deck	opponent	card	maindeck	delta
+DnT	BUG Delver	Phyrexian Revoker	1	-3
+DnT	BUG Delver	Flickerwisp	1	-1
+DnT	BUG Delver	Sanctum Prelate	1	-1
+DnT	BUG Delver	Path to Exile	0	+1
+DnT	BUG Delver	Rest in Peace	0	+2
+DnT	BUG Delver	Council's Judgement	0	+2
+
+DnT	Miracles	Mother of Runes	1	-4
+DnT	Miracles	Swords to Plowshares	1	-2
+DnT	Miracles	Council's Judgement	0	+2
+DnT	Miracles	Gideon, Ally of Zendikar	0	+2
+DnT	Miracles	Pithing Needle	0	+1
+DnT	Miracles	Ethersworn Canonist	0	+1
+
+DnT	Sneak 'n Show	Swords to Plowshares	1	-3
+DnT	Sneak 'n Show	Mirran Crusader	1	-1
+DnT	Sneak 'n Show	Umezawa's Jitte	1	-1
+DnT	Sneak 'n Show	Stoneforge Mystic	1	-1
+DnT	Sneak 'n Show	Pithing Needle	0	+1
+DnT	Sneak 'n Show	Path to Exile	0	+1
+DnT	Sneak 'n Show	Containment Priest	0	+1
+DnT	Sneak 'n Show	Council's Judgement	0	+2
+DnT	Sneak 'n Show	Sanctum Prelate	0	+1
+
+DnT	Reanimator	Phyrexian Revoker	1	-3
+DnT	Reanimator	Stoneforge Mystic	1	-2
+DnT	Reanimator	Umezawa's Jitte	1	-1
+DnT	Reanimator	Sword of Fire and Ice	1	-1
+DnT	Reanimator	Serra Avenger	1	-1
+DnT	Reanimator	Mirran Crusader	1	-1
+DnT	Reanimator	Containment Priest	0	+1
+DnT	Reanimator	Path to Exile	0	+1
+DnT	Reanimator	Rest in Peace	0	+3
+DnT	Reanimator	Surgical Extraction	0	+2
+DnT	Reanimator	Council's Judgement	0	+2

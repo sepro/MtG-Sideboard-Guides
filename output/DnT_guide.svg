@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1632"
+   height="2220"
+   viewBox="0 0 1632 2220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sideboard_guide_inkscape.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.40542705"
+     inkscape:cx="545.45784"
+     inkscape:cy="1636.4226"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,0)">
+     <rect
+        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+        id="background"
+        width="1632"
+        height="2220"
+        x="0"
+        y="0"/>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="818.5"
+       y="191"
+       id="text4136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="818.52686"
+         y="191"
+         style="font-size:90px;text-align:center;text-anchor:middle">DnT</tspan></text>
+    
+        
+        <rect
+        style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+        id="rect_1"
+        width="96"
+        height="1640"
+        x="576"
+        y="335"
+        ry="0" />
+        
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="638"
+       y="750"
+       id="deck"
+       sodipodi:linespacing="125%"
+       transform="rotate(-90, 638, 750)">BUG Delver</text>
+    
+        
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="738"
+       y="750"
+       id="deck"
+       sodipodi:linespacing="125%"
+       transform="rotate(-90, 738, 750)">Miracles</text>
+    
+        
+        <rect
+        style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+        id="rect_3"
+        width="96"
+        height="1640"
+        x="776"
+        y="335"
+        ry="0" />
+        
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="838"
+       y="750"
+       id="deck"
+       sodipodi:linespacing="125%"
+       transform="rotate(-90, 838, 750)">Reanimator</text>
+    
+        
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="938"
+       y="750"
+       id="deck"
+       sodipodi:linespacing="125%"
+       transform="rotate(-90, 938, 750)">Sneak 'n Show</text>
+    
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="835"
+       id="card_1"
+       sodipodi:linespacing="125%">Flickerwisp</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="895"
+       id="card_2"
+       sodipodi:linespacing="125%">Mirran Crusader</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="955"
+       id="card_3"
+       sodipodi:linespacing="125%">Mother of Runes</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1015"
+       id="card_4"
+       sodipodi:linespacing="125%">Phyrexian Revoker</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1075"
+       id="card_5"
+       sodipodi:linespacing="125%">Sanctum Prelate</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1135"
+       id="card_6"
+       sodipodi:linespacing="125%">Serra Avenger</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1195"
+       id="card_7"
+       sodipodi:linespacing="125%">Stoneforge Mystic</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1255"
+       id="card_8"
+       sodipodi:linespacing="125%">Sword of Fire and Ice</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1315"
+       id="card_9"
+       sodipodi:linespacing="125%">Swords to Plowshares</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1375"
+       id="card_10"
+       sodipodi:linespacing="125%">Umezawa's Jitte</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1435"
+       id="card_11"
+       sodipodi:linespacing="125%">Containment Priest</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1495"
+       id="card_12"
+       sodipodi:linespacing="125%">Council's Judgement</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1555"
+       id="card_13"
+       sodipodi:linespacing="125%">Ethersworn Canonist</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1615"
+       id="card_14"
+       sodipodi:linespacing="125%">Gideon, Ally of Zendikar</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1675"
+       id="card_15"
+       sodipodi:linespacing="125%">Path to Exile</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1735"
+       id="card_16"
+       sodipodi:linespacing="125%">Pithing Needle</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1795"
+       id="card_17"
+       sodipodi:linespacing="125%">Rest in Peace</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1855"
+       id="card_18"
+       sodipodi:linespacing="125%">Sanctum Prelate</text>
+    }
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="1915"
+       id="card_19"
+       sodipodi:linespacing="125%">Surgical Extraction</text>
+    
+    }
+    
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="835"
+              id="card_value_1_1"
+              sodipodi:linespacing="125%">-1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="895"
+              id="card_value_1_2"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="955"
+              id="card_value_1_3"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1015"
+              id="card_value_1_4"
+              sodipodi:linespacing="125%">-3</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1075"
+              id="card_value_1_5"
+              sodipodi:linespacing="125%">-1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1135"
+              id="card_value_1_6"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1195"
+              id="card_value_1_7"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1255"
+              id="card_value_1_8"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1315"
+              id="card_value_1_9"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1375"
+              id="card_value_1_10"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1435"
+              id="card_value_1_11"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1495"
+              id="card_value_1_12"
+              sodipodi:linespacing="125%">+2</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1555"
+              id="card_value_1_13"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1615"
+              id="card_value_1_14"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1675"
+              id="card_value_1_15"
+              sodipodi:linespacing="125%">+1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1735"
+              id="card_value_1_16"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1795"
+              id="card_value_1_17"
+              sodipodi:linespacing="125%">+2</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1855"
+              id="card_value_1_18"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="626"
+              y="1915"
+              id="card_value_1_19"
+              sodipodi:linespacing="125%"></text>
+        
+    }
+    
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="835"
+              id="card_value_2_1"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="895"
+              id="card_value_2_2"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="955"
+              id="card_value_2_3"
+              sodipodi:linespacing="125%">-4</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1015"
+              id="card_value_2_4"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1075"
+              id="card_value_2_5"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1135"
+              id="card_value_2_6"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1195"
+              id="card_value_2_7"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1255"
+              id="card_value_2_8"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1315"
+              id="card_value_2_9"
+              sodipodi:linespacing="125%">-2</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1375"
+              id="card_value_2_10"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1435"
+              id="card_value_2_11"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1495"
+              id="card_value_2_12"
+              sodipodi:linespacing="125%">+2</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1555"
+              id="card_value_2_13"
+              sodipodi:linespacing="125%">+1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1615"
+              id="card_value_2_14"
+              sodipodi:linespacing="125%">+2</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1675"
+              id="card_value_2_15"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1735"
+              id="card_value_2_16"
+              sodipodi:linespacing="125%">+1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1795"
+              id="card_value_2_17"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1855"
+              id="card_value_2_18"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="726"
+              y="1915"
+              id="card_value_2_19"
+              sodipodi:linespacing="125%"></text>
+        
+    }
+    
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="835"
+              id="card_value_3_1"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="895"
+              id="card_value_3_2"
+              sodipodi:linespacing="125%">-1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="955"
+              id="card_value_3_3"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1015"
+              id="card_value_3_4"
+              sodipodi:linespacing="125%">-3</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1075"
+              id="card_value_3_5"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1135"
+              id="card_value_3_6"
+              sodipodi:linespacing="125%">-1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1195"
+              id="card_value_3_7"
+              sodipodi:linespacing="125%">-2</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1255"
+              id="card_value_3_8"
+              sodipodi:linespacing="125%">-1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1315"
+              id="card_value_3_9"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1375"
+              id="card_value_3_10"
+              sodipodi:linespacing="125%">-1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1435"
+              id="card_value_3_11"
+              sodipodi:linespacing="125%">+1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1495"
+              id="card_value_3_12"
+              sodipodi:linespacing="125%">+2</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1555"
+              id="card_value_3_13"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1615"
+              id="card_value_3_14"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1675"
+              id="card_value_3_15"
+              sodipodi:linespacing="125%">+1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1735"
+              id="card_value_3_16"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1795"
+              id="card_value_3_17"
+              sodipodi:linespacing="125%">+3</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1855"
+              id="card_value_3_18"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="826"
+              y="1915"
+              id="card_value_3_19"
+              sodipodi:linespacing="125%">+2</text>
+        
+    }
+    
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="835"
+              id="card_value_4_1"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="895"
+              id="card_value_4_2"
+              sodipodi:linespacing="125%">-1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="955"
+              id="card_value_4_3"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1015"
+              id="card_value_4_4"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1075"
+              id="card_value_4_5"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1135"
+              id="card_value_4_6"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1195"
+              id="card_value_4_7"
+              sodipodi:linespacing="125%">-1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1255"
+              id="card_value_4_8"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1315"
+              id="card_value_4_9"
+              sodipodi:linespacing="125%">-3</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#6C1600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1375"
+              id="card_value_4_10"
+              sodipodi:linespacing="125%">-1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1435"
+              id="card_value_4_11"
+              sodipodi:linespacing="125%">+1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1495"
+              id="card_value_4_12"
+              sodipodi:linespacing="125%">+2</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1555"
+              id="card_value_4_13"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1615"
+              id="card_value_4_14"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1675"
+              id="card_value_4_15"
+              sodipodi:linespacing="125%">+1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1735"
+              id="card_value_4_16"
+              sodipodi:linespacing="125%">+1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1795"
+              id="card_value_4_17"
+              sodipodi:linespacing="125%"></text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1855"
+              id="card_value_4_18"
+              sodipodi:linespacing="125%">+1</text>
+        
+        
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#166C00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="926"
+              y="1915"
+              id="card_value_4_19"
+              sodipodi:linespacing="125%"></text>
+        
+    
+  </g>
+</svg>

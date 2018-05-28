@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1632"
+   height="2220"
+   viewBox="0 0 1632 2220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sideboard_guide_inkscape.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.40542705"
+     inkscape:cx="545.45784"
+     inkscape:cy="1636.4226"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,0)">
+     <rect
+        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+        id="background"
+        width="1632"
+        height="2220"
+        x="0"
+        y="0"/>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="818.5"
+       y="191"
+       id="text4136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="818.52686"
+         y="191"
+         style="font-size:90px;text-align:center;text-anchor:middle">{{ deck_title }}</tspan></text>
+    {% for d in decks %}
+        {% if loop.index % 2 != 0%}
+        <rect
+        style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+        id="rect_{{loop.index}}"
+        width="96"
+        height="{{500 + 60* cards|length}}"
+        x="{{476 + 100 * loop.index}}"
+        y="335"
+        ry="0" />
+        {% endif %}
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="{{538 + 100 * loop.index}}"
+       y="750"
+       id="deck"
+       sodipodi:linespacing="125%"
+       transform="rotate(-90, {{538 + 100 * loop.index}}, 750)">{{ d }}</text>
+    {% endfor %}
+    {% for c in cards %}}
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="540"
+       y="{{ 775 + 60 * loop.index }}"
+       id="card_{{ loop.index }}"
+       sodipodi:linespacing="125%">{{ c }}</text>
+    {% endfor %}
+    {% for d in decks %}}
+    {% set x_index = loop.index %}
+        {% for k, v in data[d].items() %}
+        {% set y_index = loop.index %}
+             <text
+              xml:space="preserve"
+              style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:{% if "-" in v %}#6C1600{% else %}#166C00{% endif %};fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+              x="{{ 526 + 100 * x_index }}"
+              y="{{ 775 + 60 * y_index }}"
+              id="card_value_{{ x_index }}_{{ y_index}}"
+              sodipodi:linespacing="125%">{{ v }}</text>
+        {% endfor %}
+    {% endfor %}
+  </g>
+</svg>
