@@ -9,5 +9,5 @@ the data to a matrix. Next, using a **jinja2** template, these data are turned i
 ## Example data
 
 The included example data are for [BUG Delver](./img/BUG_index.png), [Death and Taxes](./img/death_and_taxes_index.png),
- [Lands](./img/Lands_index.png) and [Sneak 'n Show](Show_and_Tell_index.png).
+ [Lands](./img/Lands_index.png) and [Sneak 'n Show](./img/Show_and_Tell_index.png).
 

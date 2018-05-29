@@ -172,3 +172,9 @@ BUG Delver	Sneak 'n Show	Spell Pierce	0	+2
 BUG Delver	Sneak 'n Show	Thoughtseize	0	+2
 BUG Delver	Sneak 'n Show	Jace, TMS	0	+1
 
+BUG Delver	Lands	Fatal Push	1	-1
+BUG Delver	Lands	Hymn to Tourach	1	-4
+BUG Delver	Lands	Liliana ofV	1	-1
+BUG Delver	Lands	Surgical Extraction	0	+2
+BUG Delver	Lands	Spell Pierce	0	+2
+BUG Delver	Lands	Thoughtseize	0	+2
