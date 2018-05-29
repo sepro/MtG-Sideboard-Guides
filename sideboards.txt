@@ -88,3 +88,62 @@ Death and Taxes	Death and Taxes	Council's Judgement	0	+2
 Death and Taxes	Death and Taxes	Path to Exile	0	+1
 Death and Taxes	Death and Taxes	Sword of LaS	0	+1
 Death and Taxes	Death and Taxes	Containment Priest	0	+1
+
+Lands	Delver	Manabond	1	-1
+Lands	Delver	Glacial Chasm	1	-1
+Lands	Delver	Tireless Tracker	0	+2
+
+Lands	Storm	Punishing Fire	1	-3
+Lands	Storm	Glacial Chasm	1	-1
+Lands	Storm	Maze of Ith	1	-3
+Lands	Storm	Sheltered Thicket	1	-1
+Lands	Storm	Sphere of Resistance	0	+4
+Lands	Storm	Chalice of the Void	0	+2
+Lands	Storm	Tireless Tracker	0	+2
+
+Lands	Death and Taxes	Glacial Chasm	1	-1
+Lands	Death and Taxes	Gamble	1	-2
+Lands	Death and Taxes	Manabond	1	-1
+Lands	Death and Taxes	Ghost Quarter	1	-1
+Lands	Death and Taxes	Tireless Tracker	0	+2
+Lands	Death and Taxes	Krosan Grip	0	+3
+
+Lands	Sneak 'n Show	Punishing Fire	1	-3
+Lands	Sneak 'n Show	Maze of Ith	1	-3
+Lands	Sneak 'n Show	Glacial Chasm	1	-1
+Lands	Sneak 'n Show	Barbarian Ring	1	-1
+Lands	Sneak 'n Show	Sheltered Thicket	1	-1
+Lands	Sneak 'n Show	Tranquil Thicket	1	-1
+Lands	Sneak 'n Show	Tabernacle	1	-1
+Lands	Sneak 'n Show	Manabond	1	-1
+Lands	Sneak 'n Show	Sphere of Resistance	0	+4
+Lands	Sneak 'n Show	Chalice of the Void	0	+2
+Lands	Sneak 'n Show	Karakas	0	+1
+Lands	Sneak 'n Show	Tireless Tracker	0	+2
+Lands	Sneak 'n Show	Krosan Grip	0	+3
+
+Lands	Eldrazi	Punishing Fire	1	-3
+Lands	Eldrazi	Bojuka Bog	1	-1
+Lands	Eldrazi	Barbarian Ring	1	-1
+Lands	Eldrazi	Dark Depths	1	-1
+Lands	Eldrazi	Krosan Grip	0	+3
+Lands	Eldrazi	Tireless Tracker	0	+2
+Lands	Eldrazi	Crucible of Worlds	0	+1
+
+Lands	Infect	Dark Depths	1	-1
+Lands	Infect	Tranquil Thicket	1	-1
+Lands	Infect	Life from the Loam	1	-2
+Lands	Infect	Bojuka Bog	1	-1
+Lands	Infect	Sphere of Resistance	0	+4
+Lands	Infect	Chalice of the Void	0	+1
+
+Lands	Miracles	Glacial Chasm	1	-1
+Lands	Miracles	Maze of Ith	1	-3
+Lands	Miracles	Tabernacle	1	-1
+Lands	Miracles	Mox Diamond	1	-1
+Lands	Miracles	Manabond	1	-1
+Lands	Miracles	Crop Rotation	1	-2
+Lands	Miracles	Sphere of Resistance	0	+4
+Lands	Miracles	Krosan Grip	0	+3
+Lands	Miracles	Tireless Tracker	0	+2
+
