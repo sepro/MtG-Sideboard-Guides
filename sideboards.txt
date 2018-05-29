@@ -147,3 +147,28 @@ Lands	Miracles	Sphere of Resistance	0	+4
 Lands	Miracles	Krosan Grip	0	+3
 Lands	Miracles	Tireless Tracker	0	+2
 
+BUG Delver	Dredge	Hymn to Tourach	1	-4
+BUG Delver	Dredge	Liliana otV	1	-2
+BUG Delver	Dredge	Surgical Extraction	0	+2
+BUG Delver	Dredge	Spell Pierce	0	+2
+BUG Delver	Dredge	Thoughtseize	0	+2
+
+BUG Delver	Death and Taxes	FoW	1	-4
+BUG Delver	Death and Taxes	Daze	1	-3
+BUG Delver	Death and Taxes	Dread of Night	0	+1
+BUG Delver	Death and Taxes	Fatal Push	0	+1
+BUG Delver	Death and Taxes	Jace, TMS	0	+1
+BUG Delver	Death and Taxes	Golgari Charm	0	+1
+BUG Delver	Death and Taxes	Sylvan Library	0	+1
+BUG Delver	Death and Taxes	Spell Pierce	0	+2
+BUG Delver	Death and Taxes	Thoughtseize	0	+2
+
+BUG Delver	Sneak 'n Show	Abrupt Decay	1	-4
+BUG Delver	Sneak 'n Show	Fatal Push	1	-1
+BUG Delver	Sneak 'n Show	Tombstalker	1	-1
+BUG Delver	Sneak 'n Show	Tarmogoyf	1	-1
+BUG Delver	Sneak 'n Show	Surgical Extraction	0	+2
+BUG Delver	Sneak 'n Show	Spell Pierce	0	+2
+BUG Delver	Sneak 'n Show	Thoughtseize	0	+2
+BUG Delver	Sneak 'n Show	Jace, TMS	0	+1
+
