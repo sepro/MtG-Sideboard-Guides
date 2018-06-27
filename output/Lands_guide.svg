@@ -168,6 +168,7 @@
        transform="rotate(-90, 1238, 730)">Storm</text>
     
     }
+    <line x1="480" y1="773" x2="1280" y2="773" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -176,6 +177,7 @@
        id="card_1"
        sodipodi:linespacing="125%">Barbarian Ring</text>
     }
+    <line x1="480" y1="833" x2="1280" y2="833" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -184,6 +186,7 @@
        id="card_2"
        sodipodi:linespacing="125%">Bojuka Bog</text>
     }
+    <line x1="480" y1="893" x2="1280" y2="893" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -192,6 +195,7 @@
        id="card_3"
        sodipodi:linespacing="125%">Crop Rotation</text>
     }
+    <line x1="480" y1="953" x2="1280" y2="953" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -200,6 +204,7 @@
        id="card_4"
        sodipodi:linespacing="125%">Dark Depths</text>
     }
+    <line x1="480" y1="1013" x2="1280" y2="1013" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -208,6 +213,7 @@
        id="card_5"
        sodipodi:linespacing="125%">Gamble</text>
     }
+    <line x1="480" y1="1073" x2="1280" y2="1073" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -216,6 +222,7 @@
        id="card_6"
        sodipodi:linespacing="125%">Ghost Quarter</text>
     }
+    <line x1="480" y1="1133" x2="1280" y2="1133" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -224,6 +231,7 @@
        id="card_7"
        sodipodi:linespacing="125%">Glacial Chasm</text>
     }
+    <line x1="480" y1="1193" x2="1280" y2="1193" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -232,6 +240,7 @@
        id="card_8"
        sodipodi:linespacing="125%">Life from the Loam</text>
     }
+    <line x1="480" y1="1253" x2="1280" y2="1253" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -240,6 +249,7 @@
        id="card_9"
        sodipodi:linespacing="125%">Manabond</text>
     }
+    <line x1="480" y1="1313" x2="1280" y2="1313" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -248,6 +258,7 @@
        id="card_10"
        sodipodi:linespacing="125%">Maze of Ith</text>
     }
+    <line x1="480" y1="1373" x2="1280" y2="1373" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -256,6 +267,7 @@
        id="card_11"
        sodipodi:linespacing="125%">Mox Diamond</text>
     }
+    <line x1="480" y1="1433" x2="1280" y2="1433" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -264,6 +276,7 @@
        id="card_12"
        sodipodi:linespacing="125%">Punishing Fire</text>
     }
+    <line x1="480" y1="1493" x2="1280" y2="1493" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -272,6 +285,7 @@
        id="card_13"
        sodipodi:linespacing="125%">Sheltered Thicket</text>
     }
+    <line x1="480" y1="1553" x2="1280" y2="1553" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -280,6 +294,7 @@
        id="card_14"
        sodipodi:linespacing="125%">Tabernacle</text>
     }
+    <line x1="480" y1="1613" x2="1280" y2="1613" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -288,6 +303,7 @@
        id="card_15"
        sodipodi:linespacing="125%">Tranquil Thicket</text>
     }
+    <line x1="480" y1="1673" x2="1280" y2="1673" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -296,6 +312,7 @@
        id="card_16"
        sodipodi:linespacing="125%">Chalice of the Void</text>
     }
+    <line x1="480" y1="1733" x2="1280" y2="1733" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -304,6 +321,7 @@
        id="card_17"
        sodipodi:linespacing="125%">Crucible of Worlds</text>
     }
+    <line x1="480" y1="1793" x2="1280" y2="1793" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -312,6 +330,7 @@
        id="card_18"
        sodipodi:linespacing="125%">Karakas</text>
     }
+    <line x1="480" y1="1853" x2="1280" y2="1853" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -320,6 +339,7 @@
        id="card_19"
        sodipodi:linespacing="125%">Krosan Grip</text>
     }
+    <line x1="480" y1="1913" x2="1280" y2="1913" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -328,6 +348,7 @@
        id="card_20"
        sodipodi:linespacing="125%">Sphere of Resistance</text>
     }
+    <line x1="480" y1="1973" x2="1280" y2="1973" style="stroke:rgb(40,40,40);stroke-width:2;stroke-opacity:0.2"/>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

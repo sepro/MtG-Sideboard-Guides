@@ -178,3 +178,4 @@ BUG Delver	Lands	Liliana ofV	1	-1
 BUG Delver	Lands	Surgical Extraction	0	+2
 BUG Delver	Lands	Spell Pierce	0	+2
 BUG Delver	Lands	Thoughtseize	0	+2
+
